@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_the_1st_activity">This is the 1st activity</string>
+    <string name="type_something">Type something!</string>
+    <string name="next">Next</string>
+    <string name="see_how_i_carry_data_with_explicit_intent">See how I carry data with Explicit Intent</string>
+    <string name="here_is_the_data_from_activity_1">Here is the data from activity 1</string>
+</resources>
